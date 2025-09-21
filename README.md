@@ -4,8 +4,8 @@
 
 ---
 
-- I'm a ML/Software Engineer with favortism towards systems programming
+- I'm an aspiring computer goblin with interests in systems programming, ML (original right?), and performative UNIX tooling. 
 - I try to make working software
-- Arch btw
+- Arch btw 🤓
 --- 
 
