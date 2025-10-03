@@ -4,7 +4,7 @@
 
 ---
 
-- I'm an aspiring computer goblin with interests in systems programming, ML (original right?), and performative UNIX tooling. 
+- I'm a CS undergrad interested in systems programming, ML, and performative UNIX tooling. 
 - I try to make working software
 - Arch btw 🤓
 --- 
