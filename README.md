@@ -4,7 +4,7 @@
 
 ---
 
-- I'm a CS undergrad interested in systems programming, ML, and performative UNIX tooling. 
+- I'm a CS undergrad interested in systems programming, game engines, and performative UNIX tooling. 
 - I try to make working software
 - Nix btw 🤓
 --- 
